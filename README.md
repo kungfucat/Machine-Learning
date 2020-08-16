@@ -1,3 +1,5 @@
 # Machine-Learning Algorithms
 
-Contains Machine Learning, ANN, CNN codes(from A-Z Machine Learning course).
+Contains Algorithms from:
+1. Machine Learning (A-Z course)
+2. Deep Learning (A-Z course)
